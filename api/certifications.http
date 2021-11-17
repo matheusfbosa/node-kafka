@@ -1,0 +1,2 @@
+# Generate certification
+POST http://localhost:3000/certifications
